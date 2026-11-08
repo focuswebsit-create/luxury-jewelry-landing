@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "name": "MAISON ÉCLAT",
+    "status": "DEMO_PLACEHOLDER",
+    "tagline": "FINE OBJECTS",
+    "language": "he",
+    "direction": "rtl",
+    "contactConfigured": false
+  },
+  "collections": [
+    {
+      "id": "ring",
+      "nameHe": "טבעות",
+      "titleHe": "טבעות יהלומים",
+      "nameEn": "RINGS",
+      "descriptionHe": "נצנוץ מדויק, עיצוב על־זמני ורגעים שנשארים לנצח.",
+      "ctaHe": "גלו את הטבעות",
+      "visual": {"material": "espresso-velvet", "boxMechanism": "clamshell-hinge", "jewelKind": "ring"},
+      "asset": {"type": "original-placeholder-svg", "path": null}
+    },
+    {
+      "id": "watch",
+      "nameHe": "שעונים",
+      "titleHe": "שעוני יוקרה",
+      "nameEn": "WATCHES",
+      "descriptionHe": "תנועה אלגנטית, עיצוב אייקוני ודיוק בכל שנייה.",
+      "ctaHe": "גלו את השעונים",
+      "visual": {"material": "charcoal-leather", "boxMechanism": "hinged-lid", "jewelKind": "watch"},
+      "asset": {"type": "original-placeholder-svg", "path": null}
+    },
+    {
+      "id": "diamond",
+      "nameHe": "יהלומים",
+      "titleHe": "יהלומים ואבני חן",
+      "nameEn": "DIAMONDS",
+      "descriptionHe": "עולם של אור, חיתוכים מרהיבים ופרטים קטנים שעושים את כל ההבדל.",
+      "ctaHe": "גלו את היהלומים",
+      "visual": {"material": "ivory-display-case", "boxMechanism": "lift-lid", "jewelKind": "diamond"},
+      "asset": {"type": "original-placeholder-svg", "path": null}
+    }
+  ]
+}
